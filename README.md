@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ankur !</h1>
 <h3 align="center">A passionate Web developer from Gujarat, India</h3>
 
-- 🔭 I’m currently working on **Electricity Bill Management System**
+- 🔭 I’m currently working on **PoetSnap**
 
-- 🌱 I’m currently learning **Java & Different Java Frameworks**
+- 🌱 I’m currently learning **Javascript & Different Javascript Frameworks**
 
 - 👨‍💻 All of my projects are available at [ankur-cs.vercel.app](ankur-cs.vercel.app)
 
